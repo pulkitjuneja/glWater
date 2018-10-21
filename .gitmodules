@@ -1,0 +1,3 @@
+[submodule "ext/GlCore"]
+	path = ext/GlCore
+	url = https://github.com/pulkitjuneja/GlCore
